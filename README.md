@@ -21,7 +21,8 @@ cd frontend-project-44
 ```
 
 ## Использование
-
+- brain-even:
+[запись работы brain-even](https://asciinema.org/a/JMo8cK8UGFrAu6zW)
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
