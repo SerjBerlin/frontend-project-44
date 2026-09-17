@@ -23,6 +23,8 @@ cd frontend-project-44
 ## Использование
 - brain-even:
 [запись работы brain-even](https://asciinema.org/a/JMo8cK8UGFrAu6zW)
+-brain-calc:
+[Запись работы brain-calc](https://asciinema.org/a/85UFdEh0oIjZHLAV)
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
