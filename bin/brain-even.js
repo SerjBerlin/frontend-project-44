@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import evenOrNotGame from '../src/brain-even.js'
+import gameRule from '../src/brain-even.js'
 
-evenOrNotGame()
+gameRule()
