@@ -25,6 +25,8 @@ cd frontend-project-44
 [запись работы brain-even](https://asciinema.org/a/JMo8cK8UGFrAu6zW)
 -brain-calc:
 [Запись работы brain-calc](https://asciinema.org/a/85UFdEh0oIjZHLAV)
+brain-gcd:
+[Запись работы brain-gcd](https://asciinema.org/a/zA1ycB0Zhi4AT1TW)
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
