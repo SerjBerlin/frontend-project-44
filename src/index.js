@@ -15,7 +15,7 @@ const gameRule = (ruleGame, gameData) => {
     const [question, correctAnswer] = gameData()
     console.log(`Question: ${question}`)
     const answer = readlineSync.question('Your answer: ')
-    if (Number(answer) !== Number(correctAnswer)) {
+    if (answer !== correctAnswer) {
       console.log (`'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)
       return
