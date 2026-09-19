@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import gameRule from '../src/brain-progression.js'
+import gameRule from '../src/games/brain-progression.js'
 
 gameRule()
