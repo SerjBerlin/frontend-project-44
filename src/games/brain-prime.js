@@ -1,4 +1,5 @@
-import { generateNum, gameRule } from '../index.js'
+import { gameRule } from '../index.js'
+import { generateNum } from '../utils/random.js'
 
 const description = `Answer "yes" if given number is prime. Otherwise answer "no".`
 

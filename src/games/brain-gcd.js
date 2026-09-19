@@ -1,4 +1,5 @@
-import { generateNum, gameRule } from '../index.js'
+import { gameRule } from '../index.js'
+import { generateNum } from '../utils/random.js'
 
 const description = `Find the greatest common divisor of given numbers.`
 

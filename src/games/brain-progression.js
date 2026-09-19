@@ -1,5 +1,5 @@
-import { generateNum, gameRule } from '../index.js'
-
+import { gameRule } from '../index.js'
+import { generateNum } from '../utils/random.js'
 const description = `What number is missing in the progression?`
 
 const randomArr = () => {
