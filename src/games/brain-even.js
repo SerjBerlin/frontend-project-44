@@ -1,4 +1,4 @@
-import { generateNum, gameRule } from '../src/index.js'
+import { generateNum, gameRule } from '../index.js'
 
 const evenOrNot = (number) => {
   const num = number % 2 === 0 ? 'even' : 'odd'
