@@ -29,6 +29,8 @@ brain-gcd:
 [Запись работы brain-gcd](https://asciinema.org/a/zA1ycB0Zhi4AT1TW)
 brain-progression:
 [Запись работы brain-progression](https://asciinema.org/a/2h3adPWV8C4mXwPs)
+brain-prime:
+[Запись работы brain-prime](https://asciinema.org/a/ktc1FWULgqNeM4ox)
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 
 ---
