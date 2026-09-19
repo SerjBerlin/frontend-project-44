@@ -18,6 +18,7 @@
 ```bash
 git clone https://github.com/SerjBerlin/frontend-project-44.git
 cd frontend-project-44
+make install
 ```
 
 ## Использование
