@@ -5,8 +5,9 @@ const gameRule = (ruleGame, gameData) => {
   const name = readlineSync.question('May I have your name? ')
   console.log(`Hello, ${name}!`)
   console.log(ruleGame)
-  let i = 0
-  while (i <= 2) {
+  let i = 1
+  const roundsCount = 3
+  while (i <= roundsCount) {
     const [question, correctAnswer] = gameData()
     console.log(`Question: ${question}`)
     const answer = readlineSync.question('Your answer: ')
